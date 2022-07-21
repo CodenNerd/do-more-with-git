@@ -1,0 +1,5 @@
+diff a/afile b/afile	(rejected hunks)
+@@ -1,2 +1,3 @@
+ First change, on master
+ First change, on abranch
++Second change, on abranch
